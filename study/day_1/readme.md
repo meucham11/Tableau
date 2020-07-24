@@ -12,7 +12,7 @@
 <img width="502" alt="1" src="https://user-images.githubusercontent.com/34879309/88281064-f8ccaf00-cd21-11ea-8474-65f761991ff6.PNG">
 
 
-<br/><br/><br/>
+<br/>
 
 ----
 
@@ -27,7 +27,7 @@
 
 
 
-<br/><br/><br/>
+<br/>
 
 ----
 

@@ -31,13 +31,11 @@
 
 ----
 
+
 ```
 지도를 그리기 위해 데이터 형식을 바꾸어 준 후 알맞게 배치
 마크를 맵/ 밀도로 바꾸면서 적절하게 
 ```
-
-----
-
 
 <img width="495" alt="3" src="https://user-images.githubusercontent.com/34879309/88281068-f9fddc00-cd21-11ea-8a8f-29e2e4e3a044.PNG">
 

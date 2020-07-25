@@ -56,6 +56,18 @@ VLOD 기준에서 지우고 싶은 차원을 지운후계산
 
 <br/>
 
+----
+
+<img width="1190" alt="1" src="https://user-images.githubusercontent.com/34879309/88451801-c0011700-ce94-11ea-9098-97e485711c6b.png">
+
+
+<br/>
+
+<img width="1184" alt="2" src="https://user-images.githubusercontent.com/34879309/88451800-becfea00-ce94-11ea-9038-aa8d260c6623.PNG">
+
+
+----
+
 <img width="1111" alt="6" src="https://user-images.githubusercontent.com/34879309/88451750-4701bf80-ce94-11ea-8a40-c1ef58a0629f.PNG">
 
 
@@ -69,12 +81,7 @@ VLOD 기준에서 지우고 싶은 차원을 지운후계산
 ```
 
 ```
-img
 
-
-<br/>
-
-----
 
 
 ```

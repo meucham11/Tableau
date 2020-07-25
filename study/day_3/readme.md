@@ -7,8 +7,10 @@ vlod에 포함되지 않는 차원을 이용할 수 있다는 점!
 
 
 ----
-```
+# Include lod
 
+```
+VLOD에서 주로 상위(얕은)레벨을 포함한다.
 ```
 
 <img width="989" alt="1" src="https://user-images.githubusercontent.com/34879309/88450187-19af1480-ce88-11ea-924b-872112f0e89f.PNG">
@@ -19,8 +21,10 @@ vlod에 포함되지 않는 차원을 이용할 수 있다는 점!
 
 ----
 
-```
+# Exclude lod
 
+```
+VLOD 기준에서 지우고 싶은 차원을 지운후계산
 ```
 
 <img width="1113" alt="2" src="https://user-images.githubusercontent.com/34879309/88450189-1ae04180-ce88-11ea-81db-0cb85adb2558.PNG">
@@ -38,9 +42,10 @@ vlod에 포함되지 않는 차원을 이용할 수 있다는 점!
 
 ----
 
-
+## fixed lod
 ```
-
+1차적으로 fixed lod에서 계산이 이루어지고
+2차적으로 vlod에 맞추어 재집계가 이루어 진다.
 ```
 img
 

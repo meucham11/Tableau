@@ -30,8 +30,8 @@ rankd(-값) 하면 작은게 1 순위가 된다
 셀에 나타난 값은 카운트 값이지만 랭크는 sales에 대해 적용시켰다
 즉. rank는 셀에 표현된 값이 아니어도 적용할 수 있다
 ```
+<img width="496" alt="3" src="https://user-images.githubusercontent.com/34879309/88367333-7ea23600-cdc6-11ea-940b-2ec102d328f3.PNG">
 
-<img width="944" alt="4" src="https://user-images.githubusercontent.com/34879309/88367332-7ea23600-cdc6-11ea-8afb-0dadb25d7789.PNG">
 
 <br/>
 
@@ -40,7 +40,7 @@ rankd(-값) 하면 작은게 1 순위가 된다
 ```
 윈도우 함수를 이용해서 이 그림한정, 본인, -1위치, 1 위치가 모두 존재 할때 그 것들 3개 평균 계산
 ```
-<img width="496" alt="3" src="https://user-images.githubusercontent.com/34879309/88367333-7ea23600-cdc6-11ea-940b-2ec102d328f3.PNG">
+<img width="944" alt="4" src="https://user-images.githubusercontent.com/34879309/88367332-7ea23600-cdc6-11ea-8afb-0dadb25d7789.PNG">
 
 
 <br/>

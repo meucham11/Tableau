@@ -10,7 +10,7 @@ vlod에 포함되지 않는 차원을 이용할 수 있다는 점!
 # Include lod
 
 ```
-VLOD에서 주로 상위(얕은)레벨을 포함한다.
+VLOD에서 주로 하위(깊은)레벨을 포함한다.
 ```
 
 <img width="989" alt="1" src="https://user-images.githubusercontent.com/34879309/88450187-19af1480-ce88-11ea-924b-872112f0e89f.PNG">

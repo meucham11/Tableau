@@ -47,8 +47,7 @@ VLOD 기준에서 지우고 싶은 차원을 지운후계산
 1차적으로 fixed lod에서 계산이 이루어지고
 2차적으로 vlod에 맞추어 재집계가 이루어 진다.
 ```
-img
-
+<img width="1104" alt="4" src="https://user-images.githubusercontent.com/34879309/88451224-0142f800-ce90-11ea-99d4-a0459d19c8ba.PNG">
 
 <br/>
 
